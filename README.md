@@ -1,7 +1,5 @@
 # My projects
 
-The projects included in this repository are as follows,
-
 ## 1.  DL based Language Models for Text Accuracy Enhancement:
 Data cleaning was performed on a million English sentences, followed by the application of transfer learning on pre-trained Large Language Models such as BART and MarianMT to enhance text accuracy. The models underwent extensive testing, including novel comparisons on both natural and synthetic errors. Observations were made regarding shifts in error categories, and analyses were conducted on the effectiveness of transfer learning versus pre-training. Threshold points were determined through this process. The findings were drafted into two conference papers and a journal paper.
    
